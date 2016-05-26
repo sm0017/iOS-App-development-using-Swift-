@@ -1,0 +1,12 @@
+ [
+  { "name": "Luther Bonney Hall", "campus": "Portland", "latitude": 43.6621171, "longitude": -70.2760328 },
+  { "name": "Payson Smith Hall",  "campus": "Portland", "latitude": 43.662321,  "longitude": -70.2756922 },
+  { "name": "Science Building",   "campus": "Portland", "latitude": 43.662836,  "longitude": -70.2765575 },
+  { "name": "Masterton Hall",     "campus": "Portland", "latitude": 43.6622075, "longitude": -70.2755592 },
+  { "name": "Law School",         "campus": "Portland", "latitude": 43.6615509, "longitude": -70.2782536 },
+  { "name": "Sullivan Complex",   "campus": "Portland", "latitude": 43.6631723, "longitude": -70.2750300 },
+  { "name": "Abromson Center",    "campus": "Portland", "latitude": 43.6616589, "longitude": -70.2744592 },
+  { "name": "Wishcamper Center",  "campus": "Portland", "latitude": 43.6618878, "longitude": -70.2739120 },
+  { "name": "Glickman Library",   "campus": "Portland", "latitude": 43.6623225, "longitude": -70.2727801 },
+  { "name": "Campus Center",      "campus": "Portland", "latitude": 43.6629841, "longitude": -70.2732522 }
+  ]
