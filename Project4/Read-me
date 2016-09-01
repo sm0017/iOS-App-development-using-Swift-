@@ -1,0 +1,28 @@
+Project Description:
+
+Objective:
+recreate and enhance the table view and map view views. The essence of this application is to facilitate a scavenger hunt across the USM
+campuses.
+Access to a JSON data set that includes the locations of some
+campus buildings. 
+
+Application will load these and allow the user to navigate to
+them and “check” them off when they are close by
+
+Required Tasks
+1. Create a new application using the SplitViewController. The Master view should be a
+TableView and the Detail view will become a MapView that covers the entire view.
+2. Create a model and associated classes to load the initial data over the network from
+a JSON file.
+3. Your model should include an additional “location visited” property that is an optional
+NSDate. It will be nil if the user has not “found” that location and set to the date and
+time it was visited.
+4. In the table view, cells for locations that have been visited should show a
+“checkmark”, rows of locations that have not been visited will have no indicator.
+5. When the application is loaded and when the user “pulls to refresh” in the table view,
+you should check for updates from the JSON data source.
+6. On Refresh, merge any local data (visited date/times) with the changes.
+7. When the user taps on a cell in the table view, the detail view should show a map
+that includes an annotation for the location tapped and the user’s current location
+8. When the user comes within “a few meters” of the location, display an alert that they
+have found the location and update your model appropriately.
