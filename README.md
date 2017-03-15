@@ -1,7 +1,7 @@
 # iOS-App-development-using-Swift-
 
-Project 1 : CS193P IOS APPLICATION DEVELOPMENT Assignment 1 - Basic Calculator
-Project 2:  CS193P IOS APPLICATION DEVELOPMENT Assignment 2 - Calculator Brain - MVC
-Project 3: CS193P IOS APPLICATION DEVELOPMENT  Assignment 3  - Graphic Calculator
-Project 4 : HuskyHunt
-Project 5 : ToDoList App 
+Project 1 : CS193P IOS, Basic Calculator developed using Swift
+Project 2:  CS193P IOS, Calculator using the MVC Design pattern
+Project 3: CS193P IOS, Advanced Calculator with Graphic Functionality
+Project 4 : HuskyHunt, using Map functionlaity , MVC pattern to find the locations
+Project 5 : ToDoList App , A Simple TodoList App using ioS Swift
